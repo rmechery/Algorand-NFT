@@ -1,0 +1,20 @@
+{
+    "name": "RYANCOIN",
+    "description": "Ryan's Coins",
+    "image": "https://ryanmecherynft.s3.amazonaws.com/DSC_0035.jpeg",
+    "image_integrity": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+    "properties": {
+        "simple_property": "Autumn Day",
+        "rich_property": {
+            "name": "Ryan Coin",
+            "value": "001",
+            "display_value": "001",
+            "class": "emphasis",
+            "css": {
+                "color": "#ffffff",
+                "font-weight": "bold",
+                "text-decoration": "underline"
+            }
+        }
+    }
+}
