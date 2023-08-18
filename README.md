@@ -1,4 +1,4 @@
 # Algorand-NFT
-Algorand NFT
+This is just some code I wrote to get comfortable with the Algorand Blockchain API.
 
-NFT Created at [ID: 113390648](https://testnet.algoexplorer.io/asset/113390648)
+Look at the NFT I Created of a [Leaf](https://testnet.algoexplorer.io/asset/113390648) :). 
